@@ -72,7 +72,7 @@
     "stopSong": "<@{author}> ⏹ đã dừng phát nhạc!",
     "leaveChannel": "Đang rời khỏi kênh thoại...",
     "songNotFound": "Không thể tìm thấy đoạn âm thanh",
-    "songAccessErr": "Video is age restricted, private or unavailable"
+    "songAccessErr": "Video bị giới hạn độ tuổi, riêng tư hoặc không tồn tại"
   },
   "playlist": {
     "description": "Phát danh sách nhạc từ link YouTube",
